@@ -10,7 +10,7 @@ If the script finish without enabling Bitlocker, the success field should be set
   Output must be consistent.
   
 Linux
-###
+#####
 1.	Write a program that takes a command line argument for a directory path, the output will be the system mount point path for the given directory.
 2.	Write a program that take a command line argument for directory path and remove execution privileges from all users for all files in that directory and subdirectories (without changing directories permissions).
 
