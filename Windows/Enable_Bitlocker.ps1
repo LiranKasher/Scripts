@@ -1,4 +1,4 @@
-﻿### This program needs to be run with administrative privileges, in order to execute correctly! ###
+### This program needs to be run with administrative privileges, in order to execute correctly! ###
 ### This program has been tested and found working on Windows 10 (version 21H2), other distributions of Windows (7, 10, 11 and their various )  Further testing requiered! ###
 ### This program checks if Bitlocker is enabled on the Windows OS, and if not, enables it. ###
 ### The command Out-Host was added as a workaround for known issues with the Transcript command, which sometimes fails to obtain all STDOUT outputs. ###
